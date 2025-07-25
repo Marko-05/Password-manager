@@ -1,8 +1,0 @@
-DDDDDDD | examplemail@gmail.com | YYYYYYYY
-FFFFFFFFFFFFF | FFFFFFFFFFFFFFFFFFFail.com | AAAAAAAAAAA
-TETETETETEXT | examplemail | TETETETETETEXT
-ddsds | examplemail@gmail.com | dsdsds
-reddit | examplemail@gmail.com | dadddddddd
-dssds | examplemail@gmail.com | ddddd
-ffff | examplemail@gmail.com | ffff
-aaaaaaa | aaaaaa | aaaaaaaaa
