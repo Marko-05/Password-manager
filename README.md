@@ -1,1 +1,1 @@
-This python password manager stores passwords to a .txt file and has a built-in password generator that creates a random long password containing symbols, numbers and letters.
+This python password manager stores passwords to a JSON file and has a built-in password generator that creates a random long password containing symbols, numbers and letters as well as a simple search function to find stored usernames and passwords
